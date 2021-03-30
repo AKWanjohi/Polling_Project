@@ -8,3 +8,5 @@ polls/__pycache__/models.cpython-38.pyc
 polls/migrations/__pycache__/__init__.cpython-38.pyc
 polls/migrations/__pycache__/0001_initial.cpython-38.pyc
 public_polls/__pycache__/wsgi.cpython-38.pyc
+polls/__pycache__/urls.cpython-38.pyc
+polls/__pycache__/views.cpython-38.pyc
